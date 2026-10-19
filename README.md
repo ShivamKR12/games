@@ -81,3 +81,4 @@ Automated vector sketching engines that parse SVG contours and recreate portrait
 
 - **Libraries**: Pygame, Tkinter, Turtle, OpenCV (`cv2`), svgpathtools, tqdm
 - **Audio**: MIDI (`tetrisb.mid`)
+

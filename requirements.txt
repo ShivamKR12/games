@@ -3,3 +3,4 @@ opencv-python>=4.5.0
 svgpathtools>=1.6.0
 svg.path>=6.0
 tqdm>=4.60.0
+
